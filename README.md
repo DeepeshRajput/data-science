@@ -36,7 +36,7 @@ OSSU Data Science uses the report [Curriculum Guidelines for Undergraduate Progr
 
 ---
 
-### Introduction to Data Science
+### Introduction to Data science
 [What is Data Science](https://www.coursera.org/learn/what-is-datascience)
 
 ### Introduction to Computer Science
